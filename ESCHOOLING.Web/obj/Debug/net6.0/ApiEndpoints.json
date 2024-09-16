@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ESCHOOLING.Web.Controllers.ChatController",
+    "Method": "GetChatHistory",
+    "RelativePath": "api/Chat/GetChatHistory/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ESCHOOLING.Shared.Models.ChatHistory",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

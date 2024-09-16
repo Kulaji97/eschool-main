@@ -1,0 +1,138 @@
+﻿@{
+    Layout = "_StudentLayout";
+}
+@section Css
+{
+    <meta name="robots" content="noindex">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300' rel='stylesheet' type='text/css'>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css'>
+    <link href="~/css/chat.css" rel="stylesheet" />
+}
+
+    <div id="frame">
+        <div id="sidepanel">
+            <div id="profile">
+                <div class="wrap">
+                <img id="profile-img" src="" class="online" alt="" />
+                    <p></p>
+                    <i class="fa fa-chevron-down expand-button" aria-hidden="true"></i>
+                    <div id="status-options">
+                        <ul>
+                            <li id="status-online" class="active"><span class="status-circle"></span> <p>Online</p></li>
+                            <li id="status-away"><span class="status-circle"></span> <p>Away</p></li>
+                            <li id="status-busy"><span class="status-circle"></span> <p>Busy</p></li>
+                            <li id="status-offline"><span class="status-circle"></span> <p>Offline</p></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="search">
+                <label for="txtSearchContacts"><i class="fa fa-search" aria-hidden="true"></i></label>
+                <input id="txtSearchContacts" type="text" placeholder="Search contacts..." />
+            </div>
+            <div id="contacts">
+                <ul id="ContactsList">
+                </ul>
+            </div>
+            <!--<div id="bottom-bar">
+                <button id="addcontact"><i class="fa fa-user-plus fa-fw" aria-hidden="true"></i> <span>Add contact</span></button>
+                <button id="settings"><i class="fa fa-cog fa-fw" aria-hidden="true"></i> <span>Settings</span></button>
+            </div>-->
+        </div>
+        <div class="content">
+            <div class="contact-profile">
+                <img src="" alt="" />
+                <p></p>
+                <!--<div class="social-media">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </div>-->
+            </div>
+            <div class="messages">
+                <ul>
+                </ul>
+            </div>
+            <div class="message-input">
+                <div class="wrap">
+                    <input id="txtMessageInput" type="text" placeholder="Write your message..." />
+                    @* <i class="fa fa-paperclip attachment" aria-hidden="true"></i> *@
+                    <button id="btnSend" class="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts{
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/chatmessage.js"></script>
+    <script src="~/js/chatuser.js"></script>
+    <script src="~/js/chat.js"></script>
+        <script>
+
+            $(document).ready(function () {
+            (".submit").disabled = true;
+            $('#profile .wrap img').attr('src', window.ImageUrl);
+            $('#profile .wrap p').text(window.Name);
+            StartConnection();
+            GetChatHistory();
+
+                $(".messages").animate({ scrollTop: $(document).height() }, "fast");
+                $('#ContactsList li.contact').click(function () {
+                    const userId = $(this).data('userid');
+                    setActiveChat(userId);
+                });
+
+                $("#profile-img").click(function () {
+                    $("#status-options").toggleClass("active");
+                });
+
+                $("#status-options ul li").click(function () {
+                    $("#profile-img").removeClass();
+                    $("#status-online").removeClass("active");
+                    $("#status-away").removeClass("active");
+                    $("#status-busy").removeClass("active");
+                    $("#status-offline").removeClass("active");
+                    $(this).addClass("active");
+
+                    if ($("#status-online").hasClass("active")) {
+                        $("#profile-img").addClass("online");
+                    } else if ($("#status-away").hasClass("active")) {
+                        $("#profile-img").addClass("away");
+                    } else if ($("#status-busy").hasClass("active")) {
+                        $("#profile-img").addClass("busy");
+                    } else if ($("#status-offline").hasClass("active")) {
+                        $("#profile-img").addClass("offline");
+                    } else {
+                        $("#profile-img").removeClass();
+                    };
+
+                    $("#status-options").removeClass("active");
+                });
+
+
+
+                $('.submit').click(function () {
+                    newMessage();
+                });
+
+                $(window).on('keydown', function (e) {
+                    if (e.which == 13) {
+                        newMessage();
+                        return false;
+                    }
+                });
+                
+
+            });
+
+
+
+        </script>
+    }
+

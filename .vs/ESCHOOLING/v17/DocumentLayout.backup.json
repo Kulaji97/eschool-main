@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SampleProjects\\ESCHOOLING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\views\\shared\\_parentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\views\\shared\\_parentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\signalrchat\\counsellinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\signalrchat\\counsellinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\views\\doctor\\chatwithpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\views\\doctor\\chatwithpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\views\\student\\chatwithdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\views\\student\\chatwithdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|d:\\sampleprojects\\eschooling\\eschooling.web\\signalrchat\\chatuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFF78D-C1F2-44B3-8217-DF3E7E783974}|ESCHOOLING.Web\\ESCHOOLING.Web.csproj|solutionrelative:eschooling.web\\signalrchat\\chatuseridprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE54C1D-E955-4677-91EA-D1D32F8A016C}|ESCHOOLING.Shared\\ESCHOOLING.Shared.csproj|d:\\sampleprojects\\eschooling\\eschooling.shared\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE54C1D-E955-4677-91EA-D1D32F8A016C}|ESCHOOLING.Shared\\ESCHOOLING.Shared.csproj|solutionrelative:eschooling.shared\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.js",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\wwwroot\\js\\chat.js",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "ESCHOOLING.Web\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAALYAAAAAAAAAAAApwLsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T04:54:13.48Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ParentLayout.cshtml",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Shared\\_ParentLayout.cshtml",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\Views\\Shared\\_ParentLayout.cshtml",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Shared\\_ParentLayout.cshtml",
+              "RelativeToolTip": "ESCHOOLING.Web\\Views\\Shared\\_ParentLayout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T01:17:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ESCHOOLING.Web\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:00:48.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ESCHOOLING.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:00:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatUserIdProvider.cs",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\SignalRChat\\ChatUserIdProvider.cs",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\SignalRChat\\ChatUserIdProvider.cs",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\SignalRChat\\ChatUserIdProvider.cs",
+              "RelativeToolTip": "ESCHOOLING.Web\\SignalRChat\\ChatUserIdProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:36:09.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatWithPatient.cshtml",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Doctor\\ChatWithPatient.cshtml",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\Views\\Doctor\\ChatWithPatient.cshtml",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Doctor\\ChatWithPatient.cshtml",
+              "RelativeToolTip": "ESCHOOLING.Web\\Views\\Doctor\\ChatWithPatient.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAjwH4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:39:20.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounsellingHub.cs",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\SignalRChat\\CounsellingHub.cs",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\SignalRChat\\CounsellingHub.cs",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\SignalRChat\\CounsellingHub.cs",
+              "RelativeToolTip": "ESCHOOLING.Web\\SignalRChat\\CounsellingHub.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:28:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatWithDoctor.cshtml",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Student\\ChatWithDoctor.cshtml",
+              "RelativeDocumentMoniker": "ESCHOOLING.Web\\Views\\Student\\ChatWithDoctor.cshtml",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Web\\Views\\Student\\ChatWithDoctor.cshtml",
+              "RelativeToolTip": "ESCHOOLING.Web\\Views\\Student\\ChatWithDoctor.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:52:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Shared\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "ESCHOOLING.Shared\\Enum\\Enum.cs",
+              "ToolTip": "D:\\SampleProjects\\ESCHOOLING\\ESCHOOLING.Shared\\Enum\\Enum.cs",
+              "RelativeToolTip": "ESCHOOLING.Shared\\Enum\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:13:23.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

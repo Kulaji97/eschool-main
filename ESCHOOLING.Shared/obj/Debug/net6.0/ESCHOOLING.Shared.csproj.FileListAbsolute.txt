@@ -1,0 +1,24 @@
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.deps.json
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.dll
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.pdb
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.csproj.AssemblyReference.cache
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.AssemblyInfoInputs.cache
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.AssemblyInfo.cs
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.csproj.CoreCompileInputs.cache
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.dll
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\refint\ESCHOOLING.Shared.dll
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.pdb
+D:\My Project\E-Schooling\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ref\ESCHOOLING.Shared.dll
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.deps.json
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.dll
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\bin\Debug\net6.0\ESCHOOLING.Shared.pdb
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.csproj.AssemblyReference.cache
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.AssemblyInfoInputs.cache
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.AssemblyInfo.cs
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.csproj.CoreCompileInputs.cache
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.dll
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\refint\ESCHOOLING.Shared.dll
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ESCHOOLING.Shared.pdb
+D:\SampleProjects\ESCHOOLING\ESCHOOLING.Shared\obj\Debug\net6.0\ref\ESCHOOLING.Shared.dll

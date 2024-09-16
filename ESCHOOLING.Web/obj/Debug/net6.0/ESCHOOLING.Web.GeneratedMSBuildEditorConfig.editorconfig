@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ESCHOOLING.Web
+build_property.RootNamespace = ESCHOOLING.Web
+build_property.ProjectDir = D:\SampleProjects\ESCHOOLING\ESCHOOLING.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\SampleProjects\ESCHOOLING\ESCHOOLING.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Auth/forbidden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxmb3JiaWRkZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Auth/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Doctor/ChatWithPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENoYXRXaXRoUGF0aWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Parent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Parent/ViewAttendanceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFZpZXdBdHRlbmRhbmNlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Parent/ViewEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFZpZXdFdmVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Parent/ViewMarks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFZpZXdNYXJrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_DoctorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Eb2N0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_ParentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJlbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_SupplierLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdXBwbGllckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_TeacherLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZWFjaGVyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Student/ChatWithDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDaGF0V2l0aERvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Student/ViewAttendanceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxWaWV3QXR0ZW5kYW5jZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Student/ViewEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxWaWV3RXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Student/ViewMarks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxWaWV3TWFya3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxBZGRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/MarkAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxNYXJrQXR0ZW5kYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/MarkPrediction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxNYXJrUHJlZGljdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/TeacherHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxUZWFjaGVySG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/ViewAttendanceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxWaWV3QXR0ZW5kYW5jZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/ViewAttendanceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxWaWV3QXR0ZW5kYW5jZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Teacher/ViewStudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxWaWV3U3R1ZGVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SampleProjects/ESCHOOLING/ESCHOOLING.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s47nwkd8cf
